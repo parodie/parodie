@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer in the making | DevOps Explorer | Driven by a strong passion for scalable and secure software. Continuously learning and ready to take on new challenges.
+Software Engineer in the making | DevOps Explorer | Driven by a strong passion for scalable and secure software. Continuously learning, ready to take on new challenges and contribute to impactful tech projects.
 
 
 # 💻 Tech Stack:
