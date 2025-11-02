@@ -1,4 +1,4 @@
-# Aicha NAIT DAYAA:
+# Aicha NAIT DAYAA
 Software Engineer in the making | DevOps Explorer | Driven by a strong passion for scalable and secure software. Continuously learning and ready to take on new challenges and contribute to impactful tech projects.
 
 
